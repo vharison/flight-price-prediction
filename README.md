@@ -48,24 +48,15 @@ Linear Regression
 
 Random Forest Regressor
 
-Gradient Boosting / XGBoost (optional)
+Decison Tree Regressor
+
 
 Evaluation metrics used:
 ✔ MAE
 ✔ RMSE
 ✔ R² Score
 
-You can update the README later with your final model performance table once executed.
 
-🔑 Key Insights
-
-The Airline type and Total Stops are the most influential pricing factors
-
-Early morning vs evening flights show price fluctuations
-
-Flight duration plays a major role in pricing structure
-
-These insights can support pricing strategy & customer planning.
 
 🛠 Tech Stack
 Tool	Purpose
